@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenyangzhen/CLionProjects/NF16_TP4/tp4.c
+tp4.h
+/Users/chenyangzhen/CLionProjects/NF16_TP4/tp4.h
+
+/Users/chenyangzhen/CLionProjects/NF16_TP4/tp4.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
